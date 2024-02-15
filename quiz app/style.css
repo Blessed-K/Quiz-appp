@@ -1,0 +1,14 @@
+.main-btn{
+    position: absolute;
+    left:40%;
+    top:40%;
+    z-index: 10;
+
+}
+.btn1{
+    height:200px;
+}
+
+body{
+    background-color: #e6f7ff;
+}
